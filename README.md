@@ -1,0 +1,2 @@
+# AIbot
+Houses Discord Bot
